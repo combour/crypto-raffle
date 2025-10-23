@@ -13,7 +13,7 @@ The raffle contract has the below features:
 
 A campaign has the states {`Active`, `Closed`, `WinnerSelected`}. It's `Active` when the raffle is created, `Closed` when the deadline is reached, and `WinnerSelected` when the winners are selected.
 
-# Deploy locally
+# Deploy locally 
 
 1. Clone this repo and install dependencies with `npm install`
 2. Make a copy of `.env.sample` and rename it to `.env`, fill in the required values (see below)
